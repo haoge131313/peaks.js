@@ -1750,3 +1750,10 @@ Thank you to all our [contributors](https://github.com/bbc/peaks.js/graphs/contr
 # Copyright
 
 Copyright 2022 British Broadcasting Corporation
+p align="center">
+  <strong>A client-side JavaScript component to display and interact with audio waveforms in the browser</strong>
+</p>
+
+![](https://github.com/bbc/peaks.js/blob/master/peaks.png?raw=1)
+
+Peaks.js uses the HTML canvas element to display the waveform at different zoom levels, and has configuration options to allow you to customize the waveform views. Peaks.js allows users to interact with the waveform views, including zooming and scrolling, and
